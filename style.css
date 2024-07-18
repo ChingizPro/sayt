@@ -10,3 +10,9 @@ img {
     height: auto;
     vertical-align: middle;
 }
+.nav {
+    background-color: gold;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
