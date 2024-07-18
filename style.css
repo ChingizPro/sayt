@@ -16,3 +16,8 @@ img {
     padding: 20px;
     font-size: 24px;
 }
+.main {
+    background-color: lime;
+    padding: 120px 70px;
+    font-size: 18px;
+}
